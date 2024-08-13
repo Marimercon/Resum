@@ -38,4 +38,64 @@ Zero-rating:
 Zero-rating é uma prática de marketing utilizada por operadoras de telecomunicações em que o uso de determinados aplicativos ou serviços de internet não consome os dados do plano contratado pelo usuário. Em outras palavras, quando uma empresa oferece zero-rating, ela permite que os usuários acessem certos conteúdos ou aplicativos sem descontar da franquia de dados do plano de internet.
 
 Por exemplo, uma operadora pode permitir que seus clientes usem redes sociais, como Facebook ou WhatsApp, sem que o consumo desses aplicativos seja contabilizado no limite de dados móveis. Embora essa prática possa ser atraente para os consumidores, ela é controversa, pois pode criar um ambiente onde certos serviços têm uma vantagem competitiva sobre outros, levantando preocupações sobre a neutralidade da rede. A neutralidade da rede é o princípio de que todos os dados na internet devem ser tratados igualmente, sem discriminação ou privilégios baseados em sua origem, destino ou tipo de conteúdo.
+A "nuvem", no contexto da computação, refere-se a uma rede de servidores remotos hospedados na internet que armazenam, gerenciam e processam dados, em vez de um servidor local ou de um computador pessoal. Esses servidores podem ser acessados por meio da internet para diversos serviços, como armazenamento de arquivos, hospedagem de sites, execução de aplicativos e processamento de dados.
+
+A computação em nuvem permite que usuários e empresas usem recursos computacionais, como armazenamento e poder de processamento, sem a necessidade de possuir e manter fisicamente esses recursos. Em vez disso, eles podem pagar por esses serviços conforme a demanda, o que oferece flexibilidade, escalabilidade e economia de custos.
+
+Existem diferentes tipos de nuvens, incluindo:
+
+1. **Nuvem Pública**: Serviços oferecidos por terceiros (como Google Cloud, Amazon Web Services, Microsoft Azure) disponíveis para qualquer pessoa ou empresa através da internet.
+2. **Nuvem Privada**: Infraestrutura dedicada a uma única organização, podendo estar localizada dentro da empresa ou ser gerida por terceiros.
+3. **Nuvem Híbrida**: Combinação de nuvens públicas e privadas, permitindo que dados e aplicações sejam compartilhados entre elas para maior flexibilidade e otimização de recursos. 
+
+A "nuvem" é essencial para muitas tecnologias modernas, permitindo desde o armazenamento de fotos pessoais até a execução de grandes aplicações empresariais.
+Um **servidor** é um computador ou sistema de software que fornece serviços, dados ou recursos para outros computadores, chamados de "clientes", através de uma rede, geralmente a internet ou uma rede local. Os servidores são projetados para processar, armazenar e distribuir dados, bem como gerenciar recursos e tarefas que são solicitados por outros dispositivos na rede.
+
+Os servidores podem executar uma ampla variedade de funções, incluindo:
+
+1. **Servidor Web**: Hospeda sites e disponibiliza páginas da web para os usuários via navegadores.
+2. **Servidor de Arquivos**: Armazena e gerencia arquivos, permitindo que outros dispositivos na rede acessem, armazenem e compartilhem arquivos.
+3. **Servidor de E-mail**: Gerencia e-mails enviados e recebidos entre usuários.
+4. **Servidor de Banco de Dados**: Armazena e gerencia dados em bancos de dados, permitindo consultas e atualizações feitas por outros sistemas.
+5. **Servidor de Aplicações**: Hospeda e executa aplicativos de software para uso de clientes na rede.
+
+Os servidores podem ser máquinas físicas dedicadas exclusivamente a uma função, ou podem ser virtualizados, onde várias instâncias de servidores são executadas em um único hardware físico, utilizando tecnologias como máquinas virtuais ou containers.
+
+Esses sistemas são essenciais para a maioria das infraestruturas de TI modernas, suportando desde pequenos sites pessoais até redes corporativas e grandes aplicações de negócios.
+A **neutralidade da rede** é o princípio de que todos os dados que trafegam na internet devem ser tratados da mesma forma pelos provedores de serviços de internet (ISPs), sem discriminação ou priorização com base no conteúdo, origem, destino, tipo de serviço ou aplicação. Em outras palavras, sob a neutralidade da rede, todos os usuários devem ter acesso igualitário a todos os conteúdos e serviços online, sem que os ISPs possam interferir ou dar tratamento preferencial a determinados tipos de tráfego.
+
+Isso significa que os provedores de internet não podem:
+
+1. **Bloquear**: Impedir o acesso a determinados sites, serviços ou aplicativos.
+2. **Estrangular (Throttling)**: Reduzir deliberadamente a velocidade de acesso a determinados tipos de conteúdo ou serviços, como streaming de vídeo ou jogos online.
+3. **Priorizar**: Oferecer velocidades de conexão mais rápidas para determinados serviços ou conteúdos em troca de pagamento, criando "faixas rápidas" na internet.
+
+A neutralidade da rede é uma questão importante porque afeta a liberdade e a equidade de acesso à informação online, a competição entre empresas que oferecem serviços na internet e os direitos dos consumidores. A sua implementação ou revogação tem sido motivo de debate em vários países, pois impacta a forma como a internet funciona e como as pessoas e empresas podem utilizá-la.
+A **rede neural artificial** é um modelo computacional inspirado na estrutura e no funcionamento do cérebro humano. Ela é composta por unidades chamadas de "neurônios artificiais" ou "nós", que são organizadas em camadas: uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída.
+
+Cada neurônio recebe um ou mais sinais de entrada, realiza uma soma ponderada desses sinais e aplica uma função de ativação para produzir uma saída. Essa saída é então transmitida para os neurônios da próxima camada. O processo é repetido até que a rede produza uma saída final.
+
+As redes neurais artificiais são capazes de aprender a partir de exemplos por meio de um processo chamado "treinamento". Durante o treinamento, a rede ajusta os pesos das conexões entre os neurônios para minimizar o erro entre a saída gerada e a saída desejada, usando algoritmos como o backpropagation (retropropagação do erro).
+
+Esses modelos são amplamente utilizados em diversas áreas, como reconhecimento de padrões, processamento de imagem e fala, previsão de séries temporais, entre outros. Algumas das principais características das redes neurais artificiais incluem:
+
+1. **Capacidade de Aprendizado**: Elas podem aprender a realizar tarefas complexas com base em dados de treinamento.
+2. **Robustez**: Podem generalizar bem para novos dados que não foram vistos durante o treinamento.
+3. **Capacidade de Processar Informação Complexa**: São adequadas para lidar com dados complexos e não lineares.
+
+Redes neurais são a base para muitas tecnologias modernas de inteligência artificial, incluindo aprendizado profundo (deep learning), que envolve redes neurais com muitas camadas ocultas.
+**Jurimetria** é o uso de métodos estatísticos e quantitativos para analisar dados relacionados ao direito e ao sistema judicial. Ela envolve a aplicação de técnicas matemáticas, estatísticas e de análise de dados para estudar padrões e tendências em decisões judiciais, legislações, e outras atividades relacionadas ao direito.
+
+O objetivo da jurimetria é fornecer uma compreensão mais objetiva e baseada em dados sobre o funcionamento do sistema jurídico. Isso pode incluir a análise de probabilidades de resultados de casos específicos, identificação de padrões em decisões de juízes, previsão de comportamentos judiciais, ou a avaliação de políticas públicas e leis.
+
+A jurimetria pode ser utilizada por advogados, juízes, pesquisadores e formuladores de políticas para tomar decisões mais informadas, entender melhor o impacto de certas leis, ou prever resultados em processos judiciais com base em dados históricos.
+
+Exemplos de aplicação da jurimetria incluem:
+
+1. **Análise de Sentenças**: Avaliação de decisões judiciais para identificar padrões, como a tendência de um juiz específico em condenar ou absolver réus.
+2. **Previsão de Resultados**: Uso de dados passados para prever a probabilidade de sucesso em litígios.
+3. **Avaliação de Políticas Públicas**: Estudo do impacto de novas leis ou regulamentos com base em dados quantitativos.
+4. **Gestão de Riscos Jurídicos**: Identificação de áreas de alto risco para empresas ou instituições com base em dados jurídicos.
+
+A jurimetria está cada vez mais integrada ao campo do direito, especialmente com o avanço das tecnologias de big data e inteligência artificial, que permitem análises mais profundas e sofisticadas dos dados jurídicos.
 
