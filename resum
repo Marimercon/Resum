@@ -89,13 +89,67 @@ Redes neurais são a base para muitas tecnologias modernas de inteligência arti
 O objetivo da jurimetria é fornecer uma compreensão mais objetiva e baseada em dados sobre o funcionamento do sistema jurídico. Isso pode incluir a análise de probabilidades de resultados de casos específicos, identificação de padrões em decisões de juízes, previsão de comportamentos judiciais, ou a avaliação de políticas públicas e leis.
 
 A jurimetria pode ser utilizada por advogados, juízes, pesquisadores e formuladores de políticas para tomar decisões mais informadas, entender melhor o impacto de certas leis, ou prever resultados em processos judiciais com base em dados históricos.
-
-Exemplos de aplicação da jurimetria incluem:
-
-1. **Análise de Sentenças**: Avaliação de decisões judiciais para identificar padrões, como a tendência de um juiz específico em condenar ou absolver réus.
+Exemplos de aplicação da jurimetria incluem **Análise de Sentenças**: Avaliação de decisões judiciais para identificar padrões, como a tendência de um juiz específico em condenar ou absolver réus.
 2. **Previsão de Resultados**: Uso de dados passados para prever a probabilidade de sucesso em litígios.
 3. **Avaliação de Políticas Públicas**: Estudo do impacto de novas leis ou regulamentos com base em dados quantitativos.
 4. **Gestão de Riscos Jurídicos**: Identificação de áreas de alto risco para empresas ou instituições com base em dados jurídicos.
 
 A jurimetria está cada vez mais integrada ao campo do direito, especialmente com o avanço das tecnologias de big data e inteligência artificial, que permitem análises mais profundas e sofisticadas dos dados jurídicos.
+
+trabalho 3  
+ 1. Python
+
+Python é uma linguagem de programação de alto nível, interpretada, com sintaxe clara e fácil de aprender. É muito utilizada para desenvolvimento web, automação, ciência de dados e inteligência artificial.
+
+Código mínimo (Python)
+python
+print("Olá, Mundo!")
+
+
+Explicação:
+- **Sintaxe: Python é conhecido por sua sintaxe simples e legível.
+- **Interpretação: O código Python é interpretado, o que significa que é executado linha por linha.
+
+2. JavaScript
+
+JavaScript é uma linguagem de programação amplamente usada no desenvolvimento web para criar páginas dinâmicas e interativas. Ela é executada principalmente no navegador, mas também pode ser usada no lado do servidor com Node.js.
+
+ Código mínimo (JavaScript)
+javascript
+console.log("Olá, Mundo!");
+
+
+ Explicação:
+- Execução no navegador**: JavaScript é executado principalmente no navegador web.
+- Dinâmico e interpretado**: É uma linguagem dinâmica e interpretada, o que significa que não precisa de compilação prévia e pode ser executada imediatamente.
+
+ 3. Java
+
+Java é uma linguagem de programação de propósito geral, compilada e fortemente tipada. É muito usada em desenvolvimento de aplicações corporativas, dispositivos móveis (especialmente Android) e sistemas distribuídos.
+
+ Código mínimo (Java)
+java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+```
+
+ Explicação:
+- Compilação**: Java é uma linguagem compilada, ou seja, o código é transformado em bytecode e executado pela Java Virtual Machine (JVM).
+- Fortemente tipada**: Java exige que as variáveis tenham tipos definidos e essa verificação é feita durante a compilação.
+
+Resumo das Diferenças
+
+1. Nível de Complexidade**: Python tem uma sintaxe mais simples e fácil de entender, enquanto Java é mais verboso e requer uma estrutura mais rígida.
+2. Execução: Python é interpretado, enquanto Java é compilado. JavaScript é interpretado, mas é executado no navegador ou em um ambiente como Node.js.
+3. Aplicações: Python é muito usado em ciência de dados e scripts, JavaScript é essencial para desenvolvimento web, e Java é comum em aplicações corporativas e sistemas robustos.
+
+Execução dos Códigos
+
+- Python: Pode ser executado diretamente no interpretador Python ou em uma IDE como PyCharm ou VS Code.
+- JavaScript: Pode ser executado no console de um navegador web ou em ambientes de desenvolvimento como Node.js.
+- Java: Precisa ser compilado e executado em um ambiente que tenha a JVM, como Eclipse ou IntelliJ IDEA.
+
 
